@@ -1,0 +1,12 @@
+[package]
+name = "patchver"
+version = "0.1.0"
+authors = ["Divy Srivastava <dj.srivastava23@gmail.com>"]
+edition = "2021"
+
+[[bin]]
+name = "patchver"
+path = "main.rs"
+
+[dependencies]
+libsui = "0.2.0"

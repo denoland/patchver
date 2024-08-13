@@ -1,0 +1,11 @@
+{
+	"deno": "v1.46.2",
+	"is_canary": true,
+	"release_channel": "Canary",
+	"version": "1.46.2",
+	"git_hash": "b3b2f3b7",
+	"git_hash_short": "b3b2f3b7",
+	"version_or_git_hash": "1.46.2",
+	"user_agent": "Deno/1.46.2",
+	"typescript": "4.1.2"
+}
