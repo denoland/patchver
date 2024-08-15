@@ -9,4 +9,5 @@ name = "patchver"
 path = "main.rs"
 
 [dependencies]
-libsui = "0.2.0"
+libsui = "0.3.0"
+pico-args = "0.5.0"
