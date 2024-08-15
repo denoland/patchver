@@ -5,7 +5,5 @@ cargo install --git https://github.com/denoland/patchver
 ```
 
 ```
-patchver ./deno  \
-    --channel=rc \
-    ./deno_new
+patchver deno deno_new --channel rc
 ```
