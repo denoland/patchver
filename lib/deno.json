@@ -1,0 +1,9 @@
+{
+  "name": "@deno/patchver",
+  "version": "0.1.0",
+  "exports": "./mod.ts",
+  "tasks": {
+    "wasmbuild": "deno run -A https://deno.land/x/wasmbuild@0.15.6/main.ts --sync"
+  }
+}
+

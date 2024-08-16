@@ -10,6 +10,9 @@ license = "MIT"
 name = "patchver"
 path = "main.rs"
 
+[lib]
+path = "lib.rs"
+
 [dependencies]
 libsui = "0.3.0"
 pico-args = "0.5.0"
