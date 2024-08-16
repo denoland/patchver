@@ -3,6 +3,8 @@ name = "patchver"
 version = "0.1.0"
 authors = ["Divy Srivastava <dj.srivastava23@gmail.com>"]
 edition = "2021"
+description = "Tool to promote exisiting Deno binaries to a different version"
+license = "MIT"
 
 [[bin]]
 name = "patchver"
