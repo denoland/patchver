@@ -1,6 +1,6 @@
 [package]
 name = "patchver"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Divy Srivastava <dj.srivastava23@gmail.com>"]
 edition = "2021"
 description = "Tool to promote exisiting Deno binaries to a different version"
@@ -14,5 +14,5 @@ path = "main.rs"
 path = "lib.rs"
 
 [dependencies]
-libsui = "0.3.0"
+libsui = "0.4.0"
 pico-args = "0.5.0"
