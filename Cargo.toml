@@ -1,6 +1,6 @@
 [package]
 name = "patchver"
-version = "0.3.0"
+version = "0.4.0"
 authors = ["Divy Srivastava <dj.srivastava23@gmail.com>"]
 edition = "2021"
 description = "Tool to promote exisiting Deno binaries to a different version"
