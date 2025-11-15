@@ -14,5 +14,5 @@ path = "main.rs"
 path = "lib.rs"
 
 [dependencies]
-libsui = "0.8.0"
+libsui = "0.10.0"
 pico-args = "0.5.0"
