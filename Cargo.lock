@@ -181,9 +181,9 @@ checksum = "97b3888a4aecf77e811145cadf6eef5901f4782c53886191b2f693f24761847c"
 
 [[package]]
 name = "libsui"
-version = "0.10.0"
+version = "0.12.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6744db763b6e19aff65ebac2c85cf71358b3aae385828fcf0d1e02878ab7767b"
+checksum = "31c0d3e44c406dd59a3366bf17b79bf60d22c4d47fe903b7bf84cb57e7b1314b"
 dependencies = [
  "editpe",
  "image",
@@ -220,7 +220,7 @@ dependencies = [
 
 [[package]]
 name = "patchver"
-version = "0.4.0"
+version = "0.5.0"
 dependencies = [
  "libsui",
  "pico-args",
